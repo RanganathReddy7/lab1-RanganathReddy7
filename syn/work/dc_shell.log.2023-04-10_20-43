@@ -1,0 +1,18 @@
+Starting shell in Topographical mode...
+setting auto_restore_mw_cel_lib_setup true
+Initializing gui preferences from file  /u/ranga/.synopsys_dv_prefs.tcl
+dc_shell> cd ../../syn/work
+dc_shell-topo> pwd
+/home/ranga/common/Downloads/lab1-RanganathReddy7-master/syn/work
+dc_shell-topo> fs
+setting top_design to: 
+fifo1_sram
+dc_shell-topo> exit
+
+Memory usage for this session 78 Mbytes.
+Memory usage for this session including child processes 78 Mbytes.
+CPU usage for this session 2 seconds ( 0.00 hours ).
+Elapsed time for this session 84 seconds ( 0.02 hours ).
+
+Thank you...
+
